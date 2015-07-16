@@ -1,6 +1,6 @@
 {
   "name": "nested-extent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "like d3 extent for nested data structures",
   "main": "index.js",
   "scripts": {
