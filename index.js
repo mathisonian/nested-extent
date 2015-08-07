@@ -11,3 +11,6 @@ var nestedExtent = function(arrays, map) {
 
     return [min, max];
 };
+
+module.exports = nestedExtent;
+
